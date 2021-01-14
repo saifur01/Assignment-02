@@ -1,0 +1,20 @@
+
+.bg-color{
+    background-color:#ffebee;
+}
+
+
+.navbar-nav{
+    padding-left: 10px;
+}
+.text {
+width: 100%;
+}
+
+.img-left{
+    width: 100%;
+}
+
+.card-buttom{
+    display: align-items-center; 
+}
